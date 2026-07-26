@@ -1,59 +1,102 @@
-# Olá, eu sou o Carlos Alexandre! 👋
+# Olá, eu sou o Carlos Alexandre 👋
 
-### Estudante de Ciência da Computação | Focado em Análise de Dados
+### Estudante de Ciência da Computação | Foco em Análise de Dados
 
-Sou estudante de Ciência da Computação e estou construindo minha carreira na área de Análise de Dados.
+Sou estudante de Ciência da Computação e estou desenvolvendo minha carreira na área de Análise de Dados por meio de projetos práticos.
 
-Desenvolvo projetos utilizando **Python**, **SQL** e ferramentas de visualização para transformar dados em informações úteis para a tomada de decisão. Durante os projetos aplico técnicas de limpeza e tratamento de dados, análise exploratória, engenharia de atributos, visualização e documentação dos resultados.
+Utilizo **Python, SQL, Excel e Power BI** para realizar limpeza, transformação, análise e visualização de dados, buscando transformar informações brutas em indicadores que apoiem a tomada de decisão.
 
-Atualmente busco oportunidades de **Estágio** ou **Analista de Dados Júnior**, enquanto continuo aprimorando minhas habilidades por meio de estudos e projetos práticos.
+Atualmente busco oportunidades de **Estágio ou Analista de Dados Júnior**, enquanto continuo consolidando conhecimentos técnicos e desenvolvendo projetos voltados a problemas de negócio.
 
 ---
 
-## 📂 Projeto em destaque
+## 📂 Projetos em destaque
+
+### 📊 Dashboard de Vendas — Superstore
+
+Projeto de análise comercial desenvolvido no Microsoft Excel utilizando uma base com registros de vendas realizadas entre 2015 e 2018.
+
+**Principais atividades:**
+
+- Importação e preparação dos dados com Power Query;
+- Construção de indicadores de faturamento, pedidos distintos, clientes e ticket médio;
+- Criação de medidas utilizando Power Pivot e DAX;
+- Desenvolvimento de análises temporais, comerciais e geográficas;
+- Avaliação da concentração de faturamento por clientes e produtos;
+- Construção de dashboard interativo com gráficos, segmentações e Tabelas Dinâmicas.
+
+**Principais resultados:**
+
+- Identificação de crescimento do faturamento em 2017 e 2018;
+- Análise da participação de segmentos, categorias e regiões;
+- Identificação dos principais clientes, produtos e localidades;
+- Verificação da concentração da receita entre clientes e produtos.
+
+🔗 **Repositório:**  
+https://github.com/CarlosAlexandreOM/superstore-excel-dashboard
+
+---
 
 ### 🚢 Análise Exploratória de Dados — Titanic
 
-Projeto completo de Análise Exploratória de Dados (EDA) utilizando o conjunto de dados do Titanic.
+Projeto de Análise Exploratória de Dados desenvolvido em Python para investigar quais características dos passageiros estavam mais associadas à sobrevivência.
 
-**Principais atividades desenvolvidas:**
+**Principais atividades:**
 
-- Limpeza e tratamento dos dados;
-- Engenharia de atributos;
-- Análise estatística;
+- Limpeza e tratamento de valores ausentes;
+- Criação de variáveis de faixa etária, composição familiar e faixa de tarifa;
+- Análise de sobrevivência por gênero, classe, idade, família e tarifa;
 - Visualizações com Matplotlib e Seaborn;
-- Geração de insights de negócio;
-- Organização do projeto seguindo boas práticas;
-- Documentação completa do processo.
+- Documentação das etapas, decisões e limitações da análise.
 
 🔗 **Repositório:**  
 https://github.com/CarlosAlexandreOM/titanic-eda
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Competências técnicas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Linguagens e consultas**
+
+- Python
+- SQL
+
+**Análise e manipulação de dados**
+
+- Pandas
+- NumPy
+- Excel
+- Power Query
+- Power Pivot
+- DAX
+
+**Visualização de dados**
+
+- Matplotlib
+- Seaborn
+- Power BI
+- Dashboards no Excel
+
+**Banco de dados e versionamento**
+
+- SQLite
+- Git
+- GitHub
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Estatística aplicada à Análise de Dados
-- SQL para análise de dados
-- Power BI
-- Boas práticas em projetos de dados
-- Python para automação
+- SQL aplicado à análise de dados;
+- Estatística aplicada;
+- Modelagem e visualização no Power BI;
+- Boas práticas em projetos de dados;
+- Resolução de problemas de negócio com dados.
 
 ---
 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosalexandreoliveiramello/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosalexandreoliveiramello17@gmail.com)
