@@ -26,7 +26,7 @@ Pipeline de dados de vendas desenvolvido com Python, Pandas, SQL e SQLite, com a
 * Construção de dashboard interativo no Power BI.
 
 **Repositório:**
-https://github.com/CarlosAlexandreOM/Pipeline_de_Dados_de_Vendas
+https://github.com/CarlosAlexandreOM/Pipeline_de_Vendas
 
 ---
 
@@ -51,7 +51,7 @@ Projeto de análise comercial desenvolvido no Microsoft Excel utilizando uma bas
 * Verificação da concentração da receita entre clientes e produtos.
 
 **Repositório:**
-https://github.com/CarlosAlexandreOM/superstore-excel-dashboard
+https://github.com/CarlosAlexandreOM/Dashboard_Vendas
 
 ---
 
@@ -68,7 +68,7 @@ Projeto de Análise Exploratória de Dados desenvolvido em Python para investiga
 * Documentação das etapas, decisões e limitações da análise.
 
 **Repositório:**
-https://github.com/CarlosAlexandreOM/titanic-eda
+https://github.com/CarlosAlexandreOM/Titanic_Eda
 
 ---
 
