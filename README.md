@@ -1,120 +1,55 @@
 # Olá, eu sou o Carlos Alexandre
 
-### Estudante de Ciência da Computação | Foco em Ciência de Dados
+### Analista de Dados em início de carreira | Python, SQL, Power BI e Excel
 
-Sou estudante de Ciência da Computação e estou desenvolvendo minha carreira na área de Dados por meio de projetos práticos.
+Sou estudante de Ciência da Computação e estou construindo minha carreira em Análise de Dados por meio de projetos práticos.
 
-Utilizo **Python, SQL, Excel e Power BI** para trabalhar com preparação, transformação, análise e visualização de dados, buscando transformar dados em informações que apoiem a tomada de decisão.
+Utilizo **Python, SQL, Excel e Power BI** para preparar, transformar, analisar e visualizar dados, buscando responder perguntas de negócio e transformar resultados em informações úteis para tomada de decisão.
 
-Atualmente busco oportunidades de **Estágio ou vaga Júnior na área de Dados**, enquanto continuo desenvolvendo conhecimentos técnicos e aplicando-os em projetos voltados a problemas de negócio.
-
----
+Atualmente busco oportunidades de **Estágio em Dados e Analista de Dados Júnior**.
 
 ## Projetos em destaque
 
 ### Pipeline de Vendas - Olist
 
-Pipeline de dados de vendas desenvolvido com Python, Pandas, SQL e SQLite, com análise do desempenho comercial e visualização dos resultados no Power BI.
+Pipeline de dados e análise comercial utilizando **Python, Pandas, SQL, SQLite e Power BI**.
 
-**Principais atividades:**
+O projeto aborda evolução do faturamento, contribuição de categorias e regiões e concentração da receita, passando por ETL, modelagem, análise SQL e visualização.
 
-* Extração e preparação dos dados utilizando Python e Pandas;
-* Limpeza, transformação e modelagem dos dados;
-* Construção de um modelo dimensional para análise;
-* Armazenamento dos dados processados em arquivos CSV e banco SQLite;
-* Desenvolvimento de consultas SQL para análise de desempenho, distribuição e concentração do faturamento;
-* Construção de dashboard interativo no Power BI.
-
-**Repositório:**
-https://github.com/CarlosAlexandreOM/Pipeline_de_Vendas
-
----
+[Ver projeto →](https://github.com/CarlosAlexandreOM/Pipeline_de_Vendas)
 
 ### Dashboard de Vendas - Superstore
 
-Projeto de análise comercial desenvolvido no Microsoft Excel utilizando uma base com registros de vendas realizadas entre 2015 e 2018.
+Projeto de análise comercial desenvolvido com **Excel, Power Query, Power Pivot e DAX**.
 
-**Principais atividades:**
+Analisa evolução do faturamento, clientes, produtos, categorias e regiões, utilizando indicadores como faturamento, pedidos, clientes e ticket médio.
 
-* Importação e preparação dos dados com Power Query;
-* Construção de indicadores de faturamento, pedidos distintos, clientes e ticket médio;
-* Criação de medidas utilizando Power Pivot e DAX;
-* Desenvolvimento de análises temporais, comerciais e geográficas;
-* Avaliação da concentração de faturamento por clientes e produtos;
-* Construção de dashboard interativo com gráficos, segmentações e Tabelas Dinâmicas.
-
-**Principais resultados:**
-
-* Identificação do crescimento do faturamento em 2017 e 2018;
-* Análise da participação de segmentos, categorias e regiões;
-* Identificação dos principais clientes, produtos e localidades;
-* Verificação da concentração da receita entre clientes e produtos.
-
-**Repositório:**
-https://github.com/CarlosAlexandreOM/Dashboard_Vendas
-
----
+[Ver projeto →](https://github.com/CarlosAlexandreOM/Dashboard_Vendas)
 
 ### Análise Exploratória de Dados - Titanic
 
-Projeto de Análise Exploratória de Dados desenvolvido em Python para investigar quais características dos passageiros estavam associadas à sobrevivência.
+Projeto de **EDA em Python** utilizando Pandas, Matplotlib e Seaborn para investigar associações entre características dos passageiros e a sobrevivência.
 
-**Principais atividades:**
+[Ver projeto →](https://github.com/CarlosAlexandreOM/Titanic_Eda)
 
-* Limpeza e tratamento de valores ausentes;
-* Criação de variáveis de faixa etária, composição familiar e faixa de tarifa;
-* Análise de sobrevivência por gênero, classe, idade, família e tarifa;
-* Visualizações com Matplotlib e Seaborn;
-* Documentação das etapas, decisões e limitações da análise.
+## Competências
 
-**Repositório:**
-https://github.com/CarlosAlexandreOM/Titanic_Eda
+**Análise de Dados:** SQL, Python, Pandas, Excel e Power BI
 
----
+**Preparação e modelagem:** Power Query, Power Pivot, DAX, ETL e modelagem de dados
 
-## Competências técnicas
+**Visualização:** Power BI, Matplotlib e Seaborn
 
-**Linguagens e consultas**
-
-* Python
-* SQL
-
-**Análise e manipulação de dados**
-
-* Pandas
-* NumPy
-* Excel
-* Power Query
-* Power Pivot
-* DAX
-
-**Visualização de dados**
-
-* Matplotlib
-* Seaborn
-* Power BI
-* Dashboards no Excel
-
-**Banco de dados e versionamento**
-
-* SQLite
-* Git
-* GitHub
-
----
+**Banco de dados:** SQL e SQLite
 
 ## Atualmente estudando
 
-* SQL aplicado à análise de dados;
-* Estatística aplicada;
-* Modelagem e visualização no Power BI;
-* Boas práticas em projetos de dados;
-* Resolução de problemas de negócio com dados.
-
----
+* SQL aplicado à análise de dados
+* Estatística aplicada
+* PostgreSQL
+* Modelagem e visualização no Power BI
+* Raciocínio analítico e resolução de problemas de negócio
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/carlosalexandreoliveiramello/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:carlosalexandreoliveiramello17@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/carlosalexandreoliveiramello/)
